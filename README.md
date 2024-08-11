@@ -1,10 +1,10 @@
-Hello-World - 👋 Hi, I’m @Waannaabbee
+Hello-World - 👋 Hi, Marcus
 - 👀 I’m interested in ...Opensource projects
 - 🌱 I’m currently learning ...Bug bounty
 - 💞️ I’m looking to collaborate on ...Opensource
 - 📫 How to reach me ...reach me here
 - 😄 Pronouns: ...Male
-- ⚡ Fun fact: ...I am a wannabe
+- ⚡ Fun fact: ...love to scate
 
 <!---
 Waannaabbee/Waannaabbee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
